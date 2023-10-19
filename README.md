@@ -7,3 +7,6 @@ https://www.youtube.com/watch?v=wi18JuLhZ74&t=2743s
 https://academy.uipath.com/courses/introduction-to-rpa-and-automation  
 https://docs.uipath.com/studio/docs/ui-automation
 https://www.uipath.com/learning/video-tutorials/excel-datatables-automation 
+So to access my Uipath Orchestra 
+Email: mpho.mocwiri0102@gmail.com
+Password: Mothanthanyaneng@0102
