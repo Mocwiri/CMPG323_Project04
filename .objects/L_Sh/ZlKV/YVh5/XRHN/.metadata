@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click 'Edit'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "XRHNgNVdjkCPn0ZTV73y_w",
+  "Reference": "syU2qFL2S0SMIAI1QnNX6A/XRHNgNVdjkCPn0ZTV73y_w",
+  "ParentRef": "syU2qFL2S0SMIAI1QnNX6A/YVh5bxK2qUSddi5fwL-QMA",
+  "Created": "2023-10-19T00:23:38.0708282Z",
+  "Updated": "2023-10-19T00:23:38.0708282Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.10.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
